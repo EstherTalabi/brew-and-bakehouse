@@ -327,3 +327,17 @@ h1, h2, .brand-logo {
   padding: 1.5rem;
   color: #2d6a2d;
 }
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .section-title {
+    font-size: 1.8rem;
+  }
+
+  .brand-logo {
+    font-size: 1.3rem;
+  }
+}
